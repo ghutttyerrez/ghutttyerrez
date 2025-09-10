@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Jeferson Gutierrez
+# 👋 Olá!
 
 <div align="center">
 
