@@ -1,6 +1,27 @@
+# 👋 Olá! Eu sou Jeferson Gutierrez Gara
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Sempre+Aprendendo!;Criando+Soluções+Inovadoras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&du## 📊 Estatísticas Avançadas
+
+<div align="center">
+  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghutttyerrez&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghutttyerrez&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghutttyerrez&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghutttyerrez&theme=tokyonight)
+
+</div>ause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Sempre+Aprendendo!;Criando+Soluções+Inovadoras)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,23 +29,41 @@
 
 ## 🚀 Sobre Mim
 
+<table>
+<tr>
+<td>
+
+**🎯 Desenvolvedor FullStack em Formação**
+
 ```javascript
 const jeferson = {
-    localização: "Brasil",
-    papel: "Desenvolvedor FullStack em Formação",
-    foco: "Frontend & Backend",
-    objetivo: "Criar soluções inovadoras e impactantes",
-    hobbies: ["Coding", "Learning", "Gaming", "Music"],
-    status: "Disponível para oportunidades"
+  localização: "Sidrolândia - MS, Brasil 🇧🇷",
+  foco: "Frontend & Backend",
+  formação: "Análise e Desenvolvimento de Sistemas",
+  curso: "Formação FullStack Rocketseat",
+  status: "Disponível para oportunidades"
 };
 ```
 
-- 🔭 Atualmente trabalhando em **projetos pessoais** para construir meu portfólio
-- 🌱 Aprendendo **TypeScript**, **React**, **Node.js** e **desenvolvimento FullStack**
-- 👯 Procurando colaborar em **projetos open source**
-- 💬 Pergunte-me sobre **JavaScript**, **CSS**, **HTML** e **desenvolvimento web**
-- 📫 Como me encontrar: **[ORCID](https://orcid.org/0009-0003-7669-0511)**
-- ⚡ Curiosidade: **Sempre busco aprender algo novo todos os dias!**
+</td>
+<td>
+
+- 🔭 Trabalhando em **projetos pessoais** 
+- 🌱 Aprendendo **TypeScript** e **React**
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
+- 🚀 Cursando **Formação FullStack Rocketseat**
+- 🎯 **Disponível para primeira vaga como Dev FullStack**
+- 🌟 Meta: **Contribuir com projetos open source**
+- 💼 **Disponível para freelances**
+- 🕐 **Horário comercial (GMT-3)**
+- 👯 Aberto a **colaborações**
+- 💬 Vamos falar sobre **JavaScript**
+- 📫 Contato: **jefersonsdr@gmail.com**
+- ⚡ **Sempre aprendendo algo novo!**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,6 +92,9 @@ const jeferson = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 </div>
 
@@ -85,16 +127,6 @@ const jeferson = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Jeferson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghutttyerrez&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🎯 Projetos em Destaque
 
 <div align="center">
@@ -114,8 +146,8 @@ const jeferson = {
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7669-0511)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghutttyerrez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-gutierrez-garai-799915322/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonsdr@gmail.com)
 
 </div>
 
@@ -131,11 +163,17 @@ const jeferson = {
 
 ---
 
-## 🐍 Contribution Snake
+## � Estatísticas Avançadas
 
 <div align="center">
   
-![Snake animation](https://github.com/ghutttyerrez/ghutttyerrez/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghutttyerrez&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+  
+![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=ghutttyerrez&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
